@@ -1,2 +1,1 @@
-Console.WriteLine("Hola Mundo!");
-Console.WriteLine("Qué tal el curso?");
+Console.WriteLine("New Hola Mundo!");
