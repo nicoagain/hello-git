@@ -1,1 +1,1 @@
-Console.WriteLine("New Hola Mundo!");
+Console.WriteLine("Hello GitHub!");
